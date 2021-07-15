@@ -32,7 +32,7 @@ Be able to retrieve employees from a REST API and display them.
 5.Export To Excel:
 Users can export CSV for employee details.
 
-Addition packages Installed:
+Additional packages Installed:
 Nancy
 Newtonsoft.Json
 Microsoft.Office.Interop.Excel
